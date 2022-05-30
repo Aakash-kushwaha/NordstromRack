@@ -1,3 +1,41 @@
+#Fipkart Clone
+This is our Third project at Masai School Unit-3 construct week.
+
+We have tried our best to make a fully-functional clone of Zara Home website that provides a minimal user experience 
+
+where users can roam around and purchase their desired items.
+Here is the link of our website live on Netlify: https://startling-hotteok-ee84f0.netlify.app/
+About Nord strom -
+Nordstrom launched in 2014, while Nordstrom Rack launched in 2018. If you've never ventured into a Nordstrom location, the department store is renown for its collection of high-end fashion, homewares, and accessories.
+Functionalities associated with this website
+1. A user can register his account on the website.
+
+2. User can log in using credentials given during registration.
+
+3. User can search for various types of items such as Bedsheets, Napkins, Placemats, Flatsheets and much more.
+
+4. User can filter and sort product prices from high to low or low to high.
+
+5. User can make payments and succcessfully purchase their items.
+Zara Home Clone - Video 👇
+https://www.linkedin.com/posts/aakash-kushwaha-0336a4214_masaischool-nordstromrack-masaischool-activity-6929340850913050624-vWSb?utm_source=linkedin_share&utm_medium=member_desktop_web
+
+Tech Stack
+React 
+Redux
+Material-ui
+React-slick
+Boostrap
+
+
+You can contribute with us to make this more functionable.
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
