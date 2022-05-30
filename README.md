@@ -1,4 +1,4 @@
-#Fipkart Clone
+#NordstromRack clone
 This is our Third project at Masai School Unit-3 construct week.
 
 We have tried our best to make a fully-functional clone of Zara Home website that provides a minimal user experience 
