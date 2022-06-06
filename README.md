@@ -1,108 +1,79 @@
-#NordstromRack clone
-This is our Third project at Masai School Unit-3 construct week.
-
-We have tried our best to make a fully-functional clone of Zara Home website that provides a minimal user experience 
-
-where users can roam around and purchase their desired items.
-Here is the link of our website live on Netlify: https://startling-hotteok-ee84f0.netlify.app/
-About Nord strom -
+<h1>Nordsrom Rack</h1>
 Nordstrom launched in 2014, while Nordstrom Rack launched in 2018. If you've never ventured into a Nordstrom location, the department store is renown for its collection of high-end fashion, homewares, and accessories.
-Functionalities associated with this website
-1. A user can register his account on the website.
-
-2. User can log in using credentials given during registration.
-
-3. User can search for various types of items such as Bedsheets, Napkins, Placemats, Flatsheets and much more.
-
-4. User can filter and sort product prices from high to low or low to high.
-
-5. User can make payments and succcessfully purchase their items.
-Zara Home Clone - Video 👇
-https://www.linkedin.com/posts/aakash-kushwaha-0336a4214_masaischool-nordstromrack-masaischool-activity-6929340850913050624-vWSb?utm_source=linkedin_share&utm_medium=member_desktop_web
-
-Tech Stack
-React 
-Redux
-Material-ui
-React-slick
-Boostrap
-
-
-You can contribute with us to make this more functionable.
 
 
 
+### Live deployed URL: https://startling-hotteok-ee84f0.netlify.app/
+
+### Blog URL:https://medium.com/@KushwahaAakash/my-unit-4construct-week-project-at-masai-63c5ff89fe44
 
 
+ <h2>Landing Page</h2>
+    <img src="https://n.nordstrommedia.com/id/22ebcb3d-ba33-4095-9a24-9791c025affd.jpeg?h=720&w=1608" />
+    <h2>Footer Sitemap</h2>
+     <img src="https://www.monteverdemedia.com/wp-content/uploads/2020/01/Footer-walmart.jpg" />
+  <h2>Sign-up/Sign-in Page</h2>
+    <img src="https://us.v-cdn.net/5020219/uploads/editor/6h/boq2fr8m5a2j.png" />
+       <h2>Product Listing</h2>
+    <img src="https://retailinsider.b-cdn.net/wp-content/uploads/2014/05/Nordstrom-Rack-website.png" />
+        <h2>Cart Page</h2>
+    <img src="https://cdn.vox-cdn.com/thumbor/Cj_rCk7Q2yCsxoNEE6sYYCk0mcc=/126x0:895x577/1400x1400/filters:focal(126x0:895x577):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/45307454/NordstromRackHautelook_2013_11.0.jpg" />
+      <h2>Payment page</h2>
+    <img src="https://www.mynordstromslogin.com/wp-content/uploads/2019/09/nordstrom-employee-discount.png" />
+    <h1>[Getting Started]</h1>
+    <h3>Execution</h3>
+    <p>If you want to run our project in your local machine</p>
+    <p>Follow the given steps:</p>
+    <ul>
+        <li>Clone our respository <a href="https://github.com/Aakash-kushwaha/NordstromRack.git">https://github.com/Aakash-kushwaha/NordstromRack.git</a></li>
+        <li>Open our code in VS code</li>
+        <li>Open 'index.html' with Live server</li>
+        <li>Initialize the server by writing 'npm run start' on Terminal</li>
+ <h1>Features</h1>
+<ul>
+ <li>Social Sign-in/Sign-up</li>
+ <li>Slider / Drop Down Menu</li>
+ <li>Product pages , Payment Page</li>
+ <li>Sorting and searching the Product functionality</li>
+ </ul>
+    </ul>
+        <h1>Tech Stack</h1>
+    <ul>
+        <li>React</li>
+        <li>Redux</li>
+        <li>Javascript</li>
+        <li>React-Slick</li>
+        <li>Bootstrap</li>
+         <li>Material-UI</li>
+        
+    </ul>
+    
+    <h1>Area of responsiblites</h1> 
+  <ul>
+ <li>Developed the Home and Product page.</li>
+ <li>Helped with Payment and Cart page.</li>
+ <li>programmed sorting and Searching products</li>
+ <li>Allocated tasks in a team.</li>
+ </ul>
+ 
+ A collaborative project built by a team of 6 developers , executed in 4 days.
+    
+    
+    
+   <h1>Contributors</h1>
+    <ul>
+        <li><a href="#">@Nand Kishor Dumare</a></li>
+        <li><a href="#">@Jaya Vishwakarma</a></li>
+        <li> <a href="#">@R Monica Priyar</a> </li>
+        <li><a href="#">@Swapanil Kapadnis</a></li>
+        <li><a href="#">@Sachin Kumar Kehsari</a></li>
+    </ul>
+       <h1>Contributing</h1>
+    <ul>
+        Contributions are always welcome!<br><br>
+        You can contribute with us to make this more functionable.
+    </ul>
+   
+  
 
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  
