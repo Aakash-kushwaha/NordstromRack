@@ -48,7 +48,7 @@ Nordstrom launched in 2014, while Nordstrom Rack launched in 2018. If you've nev
         
     </ul>
     
-    <h1>Area of responsiblites</h1> 
+   <h1>Area of responsiblites</h1> 
   <ul>
  <li>Developed the Home and Product page.</li>
  <li>Helped with Payment and Cart page.</li>
